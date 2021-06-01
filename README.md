@@ -2,7 +2,7 @@
 
 Generate alt text from your Twitter media. Alt Text Tweeter is built with:
 
-- ES6 [ES6](http://es6-features.org/#Constants) for reaching out to the Twitter data
+- [ES6](http://es6-features.org/#Constants) for reaching out to the Twitter data
 
 ## How does it work?
 
