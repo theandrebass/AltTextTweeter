@@ -1,0 +1,25 @@
+{
+    "name": "get_alttext",
+    "verson": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "dependencies": {
+        "twitter": "^1.7.1"
+    },
+    "devDependencies": {
+        "ava": "^3.12.1"
+    },
+    "scripts": {
+        "test": "ava"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/theandrebass/AltText-Tweeter.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/theandrebass/AltText-Tweeter#readme"
+    },
+    "homepage": "https://github.com/theandrebass/AltText-Tweeter#readme"
+}
